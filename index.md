@@ -13,7 +13,7 @@ _Some things about me:_
 
 _Some things I believe:_
 
-- **Move fast**: Speed shows what’s working, removes blockers, and builds momentum that thinking alone can’t. Every second counts.
+- **Move fast**: Speed shows what’s working, removes blockers, and builds momentum that thinking alone can’t.
 - **Learn always**: Curiosity compounds. Every cycle makes the next one better.
 - **Ignore titles**: Real impact comes from ownership, not from standard labels.
 - **Embrace pressure**: If the work feels heavy, it probably matters. I want to be trusted with that.
@@ -21,4 +21,4 @@ _Some things I believe:_
 - **Zoom in when it matters**: Caring about the details means I care about the work.
 - **Play the long game**: I build for the long run. Teams, trust, and great work get better over time.
 - **Find leverage**: It’s not about hours. It’s about using tools, people, and ideas in smart ways.
-- **Work with urgency**: Stay present, move with purpose, avoid toil, and never let things drift.
+- **Work with urgency**: Stay present, move with purpose, avoid toil, and never let things drift. Every second counts.
