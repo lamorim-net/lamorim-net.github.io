@@ -23,3 +23,4 @@ _Some things I believe:_
 - **Play the long game**: I build for the long run. Teams, trust, and great work get better over time.
 - **Find leverage**: It’s not about hours. It’s about using tools, people, and ideas in smart ways.
 - **Work with urgency**: Stay present, move with purpose, avoid toil, and never let things drift. Every second counts.
+- **Trust free markets**: Open competition drives better products, real innovation, and real value for users.
