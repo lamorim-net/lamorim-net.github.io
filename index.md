@@ -10,7 +10,7 @@ _Some things about me:_
 - Live in Seattle, Washington, United States.
 - Studying Economics at [Penn State University](https://www.psu.edu/).
 - Working with ads at [Amazon](https://www.linkedin.com/in/luizamorim/) since 2016.
-- Also built stuff at iFood, Netshoes, & Shopify.
+- Previously at iFood, Netshoes, & Shopify.
 
 _Some things I believe:_
 
