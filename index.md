@@ -15,7 +15,7 @@ _Some things I believe:_
 
 - **Move fast**: Speed shows what’s working, removes blockers, and builds momentum that thinking alone can’t.
 - **Learn always**: Curiosity compounds. Every cycle makes the next one better.
-- **Ignore titles**: Real impact comes from ownership, not from labels.
+- **Ignore titles**: Real impact comes from ownership, not from standard labels.
 - **Embrace pressure**: If the work feels heavy, it probably matters. I want to be trusted with that.
 - **Ditch best practices**: If everyone’s doing it, it’s probably safe and probably boring.
 - **Zoom in when it matters**: Caring about the details means I care about the work.
