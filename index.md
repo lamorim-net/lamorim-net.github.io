@@ -4,6 +4,7 @@ title: Luiz Amorim
 ---
 
 I'm a passionate product and advertising leader.
+
 Married to Josi. Girl dad.
 
 Some things about me:
