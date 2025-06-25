@@ -4,14 +4,14 @@ title: Luiz Amorim
 ---
 I'm a passionate product and advertising builder.
 
-Some things about me:
+_Some things about me:_
 
 - Grew up in Minas Gerais, Brazil.
 - Live in Seattle, Washington, United States.
 - Studying Economics at [Penn State University](https://www.psu.edu/).
 - Working with ads at [Amazon](https://www.linkedin.com/in/luizamorim/) since 2016.
 
-Some things I believe:
+_Some things I believe:_
 
 - **Move fast**: Speed shows what’s working, removes blockers, and builds momentum that thinking alone can’t.
 - **Learn always**: Curiosity compounds. Every cycle makes the next one better.
