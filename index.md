@@ -13,7 +13,7 @@ _Some things about me:_
 
 _Some things I believe:_
 
-- **Move fast**: Speed shows what’s working, removes blockers, and builds momentum that thinking alone can’t.
+- **Move fast**: Speed shows what’s working, removes blockers, and builds momentum that thinking alone can’t. Every second counts.
 - **Learn always**: Curiosity compounds. Every cycle makes the next one better.
 - **Ignore titles**: Real impact comes from ownership, not from standard labels.
 - **Embrace pressure**: If the work feels heavy, it probably matters. I want to be trusted with that.
