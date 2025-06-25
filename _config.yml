@@ -1,10 +1,10 @@
-title: no style, please! # name of the site
-author: Riccardo Graziosi # name of site's author
-email: riccardo.graziosi97@gmail.com # email of site's author
-url: https://riggraz.dev # root address of the site
-baseurl: "/no-style-please" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+title: Luiz Amorim # name of the site
+author: Luiz Amorim # name of site's author
+email: hello.luiz@icloud.com # email of site's author
+url: https://lamorim-net.github.io # root address of the site
+baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  A (nearly) no-CSS, fast, minimalist Jekyll theme.
+  A minimalist personal site inspired by nat.org.
 
 permalink: /:slug.html
 

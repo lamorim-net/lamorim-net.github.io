@@ -1,39 +1,27 @@
 entries:
-  - title: Home
-    url: /
-    
-  - title: info
+  - title: Some things about me
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: Grew up in Minas Gerais, Brazil
+      - title: Live in Seattle, Washington, United States
+      - title: Studying Economics at Penn State University 
+      - title: Working with ads at <a href="https://www.linkedin.com/in/luizamorim/">Amazon</a> since 2016
 
-  - title: all posts
+  - title: Some things I believe
+    entries:
+      - title: Building products that consumers love is the most fulfilling work
+      - title: Thinking differently is the key to innovation
+      - title: Tech should balance progress with responsibility
+      - title: Teams work best with clear goals and autonomy
+
+  - title: All posts
     post_list:
       limit: 5
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
-
-  - title: rss
-    url: feed.xml
-  
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
+  - title: About
+    url: about
+    
+  - title: Archive
+    url: archive
