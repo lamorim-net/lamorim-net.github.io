@@ -13,7 +13,7 @@ _Some things about me:_
 - Previously at iFood, Netshoes, & Shopify.
 - Studying Economics at [Penn State University](https://www.psu.edu/).
 
-## My personal blueprint:
+_My personal blueprint:_
 
 I've spent my career working in tech, leading marketing and product efforts, and building alongside ambitious people. Along the way, I've picked up some principles that guide how I think and work. This is my personal blueprint. It's not finished, but it keeps me grounded.
 
