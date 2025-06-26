@@ -3,15 +3,15 @@ layout: home
 title: Luiz Amorim
 ---
 
-I'm a passionate product and advertising leader.  
-Married to Josi. Dad to Alice.
+I'm a passionate product and advertising builder.
 
-Some things about me:
+_Some things about me:_
 
-- Grew up in Minas Gerais, Brazil
-- Live in Seattle, Washington, United States
-- Studying Economics at [Penn State University](https://www.psu.edu/)
-- Working with ads at [Amazon](https://www.linkedin.com/in/luizamorim/) since 2016
+- Grew up in Minas Gerais, Brazil.
+- Live in Seattle, Washington, United States.
+- Working with ads at [Amazon](https://www.linkedin.com/in/luizamorim/) since 2016.
+- Previously at iFood, Netshoes, & Shopify.
+- Studying Economics at [Penn State University](https://www.psu.edu/).
 
 ## My personal blueprint:
 
