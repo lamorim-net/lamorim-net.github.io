@@ -22,7 +22,7 @@ I've spent my career working in tech, leading marketing and product efforts, and
 - **Ignore titles**: Real impact comes from ownership, not from standard labels. The best ideas often come from people no one expected.
 - **Embrace pressure**: When the work feels heavy, it usually matters. Pressure is a sign of trust, and that's something to earn and honor.
 - **Ditch best practices**: What's popular is usually outdated. I treat best practices as a floor, not a ceiling. Great work comes from first principles, not playbooks.
-- **Redesign the defaults**: Nothing is fixed. Every rule, interface, or system can be improved or replaced.
+- **Redesign the defaults**: Nothing is fixed. Every rule, interface, or system can be improved or replaced once you understand why it was there in the first place. 
 - **Zoom in when it matters**: Details are where quality lives. Knowing when to dive deep is a skill, not a habit. Small things often make the biggest difference.
 - **Play the long game**: Quick wins fade. I build with time in mind. Strong teams, trusted products, and lasting impact all require patience.
 - **Find leverage**: Effort alone doesn't scale. I look for tools, systems, and people that turn one unit of work into many units of output.
