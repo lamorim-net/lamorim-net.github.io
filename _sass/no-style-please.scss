@@ -14,7 +14,6 @@
 
 body[a="dark"] { @include dark-appearance; }
 
-
 @media (prefers-color-scheme: dark) {
   body[a="auto"] { @include dark-appearance; }
 }
@@ -23,7 +22,7 @@ body[a="dark"] { @include dark-appearance; }
 // bg color is also needed in html in order to
 // block body's background propagation
 // see: https://stackoverflow.com/a/61265706
-html, body { background: white; }
+html, body { background: #f5f4f0 !important; }
 
 html { height: 100%; scroll-behavior: smooth; }
 
