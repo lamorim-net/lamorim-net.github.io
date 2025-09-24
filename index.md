@@ -3,7 +3,7 @@ layout: home
 title: Luiz Amorim
 ---
 
-I'm a passionate product and advertising builder.
+More than a decade building products that connect technology, advertising, and marketing.
 
 _Some things about me:_
 
