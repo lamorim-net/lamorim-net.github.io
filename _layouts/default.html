@@ -6,7 +6,18 @@
       <div class="w">
         {{ content }}
 
-        {%- include footer-illustration.html -%}
+        <figure class="footer-illustration">
+          <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Alice_queen2.jpg/320px-Alice_queen2.jpg"
+            srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Alice_queen2.jpg/320px-Alice_queen2.jpg 1x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Alice_queen2.jpg/640px-Alice_queen2.jpg 2x"
+            sizes="(max-width: 220px) 100vw, 220px"
+            alt="Illustration of Alice running with the Red Queen"
+            loading="lazy"
+            decoding="async"
+            width="320"
+            height="175"
+          >
+        </figure>
       </div>
     </main>
 
