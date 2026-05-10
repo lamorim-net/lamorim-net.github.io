@@ -10,9 +10,9 @@ _Some things about me:_
 - Grew up in Minas Gerais, Brazil.
 - Live in Seattle, Washington, United States.
 - Currently at [Shopify](https://www.linkedin.com/in/luizamorim/), making commerce better for everyone.
-- Find me on [X](https://x.com/lamorim_net).
 - Previously at Amazon, iFood, & Netshoes.
 - Studying Economics at [Penn State University](https://www.psu.edu/).
+- Find me on [X](https://x.com/lamorim_net).
 
 _My personal blueprint:_
 
