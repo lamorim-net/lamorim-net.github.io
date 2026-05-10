@@ -5,7 +5,7 @@ title: About
 
 # About Me
 
-I am a product and advertising leader with a passion for building innovative solutions. Currently, I work at Amazon where I've been working with ads since 2016.
+I am a product and advertising leader with a passion for building innovative solutions. Currently, I work at Shopify, making commerce better for everyone.
 
 ## Background
 
