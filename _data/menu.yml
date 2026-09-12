@@ -1,5 +1,5 @@
 entries:
-  - title: all posts
+  - title: writings
     post_list:
       limit: 5
       show_more: true
@@ -9,5 +9,5 @@ entries:
   - title: about
     url: about
     
-  - title: archive
+  - title: writings
     url: archive
