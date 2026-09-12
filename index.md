@@ -15,4 +15,4 @@ _Some things about me:_
 - Currently at [Shopify](https://www.linkedin.com/in/luizamorim/), making commerce better for everyone.
 - Previously at Amazon, iFood, & Netshoes.
 - Studying Economics at [Penn State University](https://www.psu.edu/).
-- Building [OpenAds](http://openads.cc), an open-source AI agent for managing ad campaigns via natural language ([GitHub](https://github.com/lamorim-net/openads-ai)).
+- Building [OpenAds](http://openads.cc), an open-source AI agent for managing ad campaigns.
