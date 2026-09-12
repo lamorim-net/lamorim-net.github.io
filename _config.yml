@@ -1,24 +1,36 @@
-title: Luiz Amorim # name of the site
-author: Luiz Amorim # name of site's author
-email: hello.luiz@icloud.com # email of site's author
-url: https://lamorim-net.github.io # root address of the site
-baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
-description: > # description of the site (multiple lines allowed)
-  A minimalist personal site.
+title: Luiz Amorim
+author: Luiz Amorim
+email: hello.luiz@icloud.com
+lang: en
+url: https://lamorim.net
+baseurl: ""
+description: >-
+  Personal site of Luiz Amorim — product, marketing, and technology. Notes, blueprint, and writing.
 
 permalink: /:slug.html
 
-favicon: "favicon.png" # name+extension of favicon (which must be put on the root folder)
-# goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
+favicon: "favicon.png"
 
-remote_theme: riggraz/no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
+remote_theme: riggraz/no-style-please
+
+twitter:
+  username: lamorim_net
+  card: summary
+
+social:
+  name: Luiz Amorim
+  links:
+    - https://x.com/lamorim_net
+    - https://github.com/lamorim-net
+    - https://www.linkedin.com/in/luizamorim/
+    - https://lamorim.net
 
 theme_config:
-  appearance: "auto" # can be "light", "dark" or "auto"
-  back_home_text: "Home" # customize text for homepage link in post layout
-  date_format: "%Y-%m-%d" # customize how date is formatted
-  show_description: false # show blog description in home page
-  lowercase_titles: true # show titles in lowercase in lists
+  appearance: "auto"
+  back_home_text: "Home"
+  date_format: "%Y-%m-%d"
+  show_description: false
+  lowercase_titles: true
 
 sass:
   style: compressed
@@ -26,6 +38,7 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
   - jektex
 
 jektex:
@@ -33,5 +46,5 @@ jektex:
   ignore: ["*.xml"]
   silent: false
   macros:
-    - ["\\Q", "\\mathbb{Q}"]
-    - ["\\C", "\\mathbb{C}"]
+    - ["\Q", "\mathbb{Q}"]
+    - ["\C", "\mathbb{C}"]
