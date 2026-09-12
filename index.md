@@ -5,7 +5,7 @@ title: Luiz Amorim
 
 More than a decade building products that connect technology, advertising, and marketing.
 
-[Writing](/archive.html) · [Blueprint](/blueprint.html)
+[Writing](/archive.html) · [Blueprint](/blueprint.html) · [X](https://x.com/lamorim_net)
 
 _Some things about me:_
 
