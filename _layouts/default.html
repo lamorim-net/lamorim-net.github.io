@@ -5,19 +5,6 @@
     <main class="page-content" aria-label="Content">
       <div class="w">
         {{ content }}
-
-        {% unless page.layout == "home" %}
-          <figure class="footer-illustration">
-            <img
-              src="{{ '/assets/images/alice-red-queen.svg' | relative_url }}"
-              alt="Illustration of Alice running with the Red Queen"
-              loading="lazy"
-              decoding="async"
-              width="320"
-              height="175"
-            >
-          </figure>
-        {% endunless %}
       </div>
     </main>
 
