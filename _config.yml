@@ -5,7 +5,7 @@ lang: en
 url: https://lamorim.net
 baseurl: ""
 description: >-
-  Personal site of Luiz Amorim — product, marketing, and technology. Notes, blueprint, and writing.
+  Personal site of Luiz Amorim - product, marketing, and technology. Notes, blueprint, and writing.
 
 permalink: /:slug.html
 
@@ -39,12 +39,3 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jektex
-
-jektex:
-  cache_dir: ".jektex-cache"
-  ignore: ["*.xml"]
-  silent: false
-  macros:
-    - ["\Q", "\mathbb{Q}"]
-    - ["\C", "\mathbb{C}"]
