@@ -1,5 +1,5 @@
 entries:
-  - title: writings
+  - title: From the desk of Luiz Amorim
     post_list:
       limit: 5
       show_more: true
@@ -9,5 +9,5 @@ entries:
   - title: about
     url: about
     
-  - title: writings
+  - title: From the desk of Luiz Amorim
     url: archive
