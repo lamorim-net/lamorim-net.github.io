@@ -6,7 +6,7 @@ description: Personal site of Luiz Amorim — product, marketing, and technology
 
 More than a decade building products that connect technology, advertising, and marketing.
 
-[From the desk of Luiz Amorim](/archive.html) · [Blueprint](/blueprint.html) · [X](https://x.com/lamorim_net)
+[Writing](/archive.html) · [Blueprint](/blueprint.html) · [X](https://x.com/lamorim_net)
 
 _Some things about me:_
 
