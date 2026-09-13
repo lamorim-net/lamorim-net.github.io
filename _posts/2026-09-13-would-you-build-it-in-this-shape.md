@@ -2,7 +2,7 @@
 layout: post
 title: Would you build it in this shape?
 image:
-  path: /assets/images/og/2026-09-13-would-you-build-it-in-this-shape.png
+  path: /assets/images/og/2026-09-13-would-you-build-it-in-this-shape-v2.png
   width: 1200
   height: 630
 description: Old processes are sticky. Starting clean frees you to ask what the work should look like when agents handle most of it.
