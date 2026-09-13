@@ -41,4 +41,36 @@ body {
   li {
     margin: 0.5rem 0;
   }
+
+  /* archive index */
+  .archive-title {
+    font-size: 2rem;
+    line-height: 1.25;
+    margin: 0.75rem 0 1.5rem;
+  }
+
+  .archive-index {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+  }
+
+  .archive-index li {
+    display: grid;
+    grid-template-columns: 6.75rem 1fr;
+    gap: 0.75rem 1rem;
+    align-items: baseline;
+    margin: 0 0 1rem;
+  }
+
+  .archive-index time {
+    color: #555;
+    white-space: nowrap;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .archive-index a {
+    text-decoration: underline;
+  }
+
 </style>
