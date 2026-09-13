@@ -49,7 +49,7 @@ h1 {{
 }}
 .site {{
   position: absolute;
-  left: 80px;
+  right: 80px;
   bottom: 48px;
   font-style: normal;
   font-weight: 500;
