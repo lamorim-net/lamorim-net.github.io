@@ -8,7 +8,7 @@ image:
 description: Old processes are sticky. Starting clean frees you to ask what the work should look like when agents handle most of it.
 ---
 
-Tom Blomfield, YC General Partner, asked in a recent YC batch talk: “If you were starting this company today, would you build in this shape?”
+Tom Blomfield, YC General Partner, [asked](https://www.youtube.com/watch?v=X_JsIHUfUjc) in a recent YC batch talk: “If you were starting this company today, would you build in this shape?”
 
 That question is hard, even with AI. Old processes are very sticky. Years of work condition people to think in a certain shape. Take my own case. When I joined Amazon in 2015, I spent weeks writing SQL queries to have access to the marketing data I needed. My process would be something like this: I would start by searching for an existing query. I would then adapt it to close gaps. Run it and debug it for a while. Once it was running as expected, I would dump the data into a spreadsheet and only then *start* my analysis. Over time this process got faster, but a brand new analysis could still eat a day before the real work began.
 
