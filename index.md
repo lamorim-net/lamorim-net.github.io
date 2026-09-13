@@ -4,9 +4,9 @@ title: Luiz Amorim
 description: Personal site of Luiz Amorim — product, marketing, and technology.
 ---
 
-More than a decade building products that connect technology, advertising, and marketing.
-
 [Writing](/archive.html) · [Blueprint](/blueprint.html) · [X](https://x.com/lamorim_net)
+
+More than a decade building products that connect technology, advertising, and marketing.
 
 _Some things about me:_
 
